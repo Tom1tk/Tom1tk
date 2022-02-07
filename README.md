@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Tom1tk
+- 👋 Hi, I’m Tom
 - 🌱 I am a Computer Games Technology student at ARU
 - 📫 Feel free to contact me regarding any of my projects
