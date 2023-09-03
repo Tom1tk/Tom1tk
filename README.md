@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Tom
-- 🌱 I am a Computer Games Technology student at ARU
-- 📫 Feel free to contact me regarding any of my projects
+- 👋 Hi, I’m Tom :)
+- 🌱 I am a Computer Games Technology graduate from ARU
+- 🎓 Moved on to greener pastures, no longer coding
+- 📫 Feel free to contact me regarding any of my projects!
